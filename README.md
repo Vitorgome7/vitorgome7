@@ -18,8 +18,8 @@
 
 ### Connect with me:
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vitorgome7)
-[![Website](https://img.shields.io/badge/MK%20CELL%20Store-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.mkcellstore.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-gomes-3b5744244/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitoarmez7/)
 
 ### Languages and Tools:
 
