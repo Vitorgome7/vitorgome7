@@ -14,7 +14,7 @@
 
 - 🌱 I'm currently building web projects for retail, sales management, and warranty support.
 - 💬 Ask me about JavaScript, React, Node.js, APIs, SQL, and Supabase.
-- 📫 Contact me: [contato@mkcellstore.com.br](mailto:vitor.gomez78@gmail.com)
+- 📫 Contact me: [vitor.gomez78@gmail.com](mailto:vitor.gomez78@gmail.com)
 
 ### Connect with me:
 
